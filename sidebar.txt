@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dtu:home|Door43 (dtu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dtu|d43-dtu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dtu/archive/master.zip|d43-dtu.zip]]
+
+**Recent Changes**
+{{changes>ns = dtu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dtu|Ethnologue data]]
+
